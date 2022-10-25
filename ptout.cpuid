@@ -1,0 +1,23 @@
+Supports PT
+toPA output support:		1
+multiple toPA entries:		1
+single range:			1
+trace transport output:		0
+payloads are LIP:		0
+cycle accurate mode / psb freq:	1
+filtering / stop / mtc:		1
+PTWRITE support:                1
+Power events support:           0
+CR3 match:			1
+Number of address ranges:	2
+Supports filter ranges:		1
+Supports stop ranges:		1
+Valid cycles thresholds:	1 2 3 4 5 6 
+Valid PSB frequencies:		1 2 3 4 5 6 
+Valid MTC frequencies:	        1 4 7 10 
+TSC ratio:		        2 166
+Bus frequency:			83.000000
+Max non Turbo Ratio:	        32
+Family:				6
+Model:				151
+Stepping:			2
